@@ -2,16 +2,19 @@
 <html lang="vi">
 <head>
   <meta charset="UTF-8">
-  <title>Giỏ Hàng - Shop Online</title>
+  <title>Sản Phẩm - Shop Online</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header>
-    <!-- Sử dụng cùng thanh điều hướng như các trang khác -->
     <nav>
       <div class="nav-left">
         <button onclick="goToHome()">Trang chủ</button>
-        <!-- ... các nút danh mục ... -->
+        <button onclick="goToCategory('Điện tử')">Điện tử</button>
+        <button onclick="goToCategory('Thời trang')">Thời trang</button>
+        <button onclick="goToCategory('Gia dụng')">Gia dụng</button>
+        <button onclick="goToCategory('Sách')">Sách</button>
+        <button onclick="goToCategory('Thể thao')">Thể thao</button>
       </div>
       <div class="nav-right">
         <button onclick="goToCart()">Giỏ hàng</button>
@@ -23,12 +26,17 @@
         </div>
       </div>
     </nav>
+    <div id="search-bar">
+      <input type="text" id="search-input" placeholder="Tìm kiếm sản phẩm trong danh mục...">
+      <button onclick="searchCategoryProducts()">Tìm kiếm</button>
+    </div>
   </header>
 
-  <main>
-    <h2>Giỏ Hàng</h2>
-    <p>Chức năng giỏ hàng đang được phát triển.</p>
-  </main>
+  <!-- Nội dung giỏ hàng -->
+  <h1>Giỏ hàng của bạn</h1>
+  <div id="cart-products" class="product-container">
+    <!-- Danh sách sản phẩm đã mua sẽ được hiển thị ở đây -->
+  </div>
 
   <script src="script.js"></script>
 </body>
