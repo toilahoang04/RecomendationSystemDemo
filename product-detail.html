@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>Chi Tiết Sản Phẩm - Shop Online</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <div class="nav-left">
+        <button onclick="goToHome()">Trang chủ</button>
+        <button onclick="goToCategory('Điện tử')">Điện tử</button>
+        <button onclick="goToCategory('Thời trang')">Thời trang</button>
+        <button onclick="goToCategory('Gia dụng')">Gia dụng</button>
+        <button onclick="goToCategory('Sách')">Sách</button>
+        <button onclick="goToCategory('Thể thao')">Thể thao</button>
+      </div>
+      <div class="nav-right">
+        <button onclick="goToCart()">Giỏ hàng</button>
+        <div class="user-menu">
+          <img src="https://i.pinimg.com/736x/8f/1c/a2/8f1ca2029e2efceebd22fa05cca423d7.jpg" alt="Avatar" class="avatar">
+          <div class="dropdown-content">
+            <button onclick="logout()">Đăng xuất</button>
+          </div>
+        </div>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <div id="product-detail">
+      <img id="product-image" src="" alt="Hình ảnh sản phẩm">
+      <h2 id="product-name"></h2>
+      <p id="product-description"></p>
+      <button onclick="buyProduct()">Mua sản phẩm</button>
+    </div>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>

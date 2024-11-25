@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>Sản Phẩm - Shop Online</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <div class="nav-left">
+        <button onclick="goToHome()">Trang chủ</button>
+        <button onclick="goToCategory('Điện tử')">Điện tử</button>
+        <button onclick="goToCategory('Thời trang')">Thời trang</button>
+        <button onclick="goToCategory('Gia dụng')">Gia dụng</button>
+        <button onclick="goToCategory('Sách')">Sách</button>
+        <button onclick="goToCategory('Thể thao')">Thể thao</button>
+      </div>
+      <div class="nav-right">
+        <button onclick="goToCart()">Giỏ hàng</button>
+        <div class="user-menu">
+          <img src="https://i.pinimg.com/736x/8f/1c/a2/8f1ca2029e2efceebd22fa05cca423d7.jpg" alt="Avatar" class="avatar">
+          <div class="dropdown-content">
+            <button onclick="logout()">Đăng xuất</button>
+          </div>
+        </div>
+      </div>
+    </nav>
+    <div id="search-bar">
+      <input type="text" id="search-input" placeholder="Tìm kiếm sản phẩm trong danh mục...">
+      <button onclick="searchCategoryProducts()">Tìm kiếm</button>
+    </div>
+  </header>
+
+  <main>
+    <h2 id="category-title"></h2>
+    <div id="category-products" class="product-list"></div>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>

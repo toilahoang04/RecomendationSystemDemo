@@ -1,0 +1,37 @@
+{
+    "users": [
+      {
+        "username": "hoang",
+        "interactions": {
+          "views": [],
+          "buys": [],
+          "searches": []
+        }
+      },
+      {
+        "username": "kien",
+        "interactions": {
+          "views": [],
+          "buys": [],
+          "searches": []
+        }
+      },
+      {
+        "username": "thuan",
+        "interactions": {
+          "views": [],
+          "buys": [],
+          "searches": []
+        }
+      },
+      {
+        "username": "Vinh",
+        "interactions": {
+          "views": [],
+          "buys": [],
+          "searches": []
+        }
+      }
+    ]
+  }
+  
