@@ -7,91 +7,61 @@
           "id": 1,
           "name": "Điện thoại iPhone 14 Pro Max",
           "description": "Điện thoại thông minh cao cấp từ Apple.",
-          "image": "img/iphone14promax.jpg"
+          "image": "./img/iphone14promax.jpg"
         },
         {
           "id": 2,
           "name": "Laptop Dell XPS 15",
           "description": "Laptop siêu mỏng nhẹ với hiệu năng mạnh mẽ.",
-          "image": "img/dellxps15.jpg"
+          "image": "./img/dellxps15.jpg"
         },
         {
           "id": 3,
           "name": "Tai nghe Sony WH-1000XM4",
           "description": "Tai nghe chống ồn hàng đầu từ Sony.",
-          "image": "img/sonywh1000xm4.jpg"
+          "image": "./img/sonywh1000xm4.jpg"
         },
         {
           "id": 4,
           "name": "Máy ảnh Canon EOS R6",
           "description": "Máy ảnh mirrorless với cảm biến full-frame.",
-          "image": "img/canoneosr6.jpg"
+          "image": "./img/canoneosr6.jpg"
         },
         {
           "id": 5,
           "name": "Apple Watch Series 7",
           "description": "Đồng hồ thông minh với nhiều tính năng sức khỏe.",
-          "image": "img/applewatchseries7.jpg"
+          "image": "./img/applewatchseries7.jpg"
         },
         {
           "id": 6,
           "name": "Máy tính bảng iPad Pro 12.9",
           "description": "Máy tính bảng với màn hình Liquid Retina XDR.",
-          "image": "img/ipadpro12.9.jpg"
+          "image": "./img/ipadpro12.9.jpg"
         },
         {
           "id": 7,
           "name": "Tivi Samsung QLED 8K",
           "description": "Tivi với độ phân giải 8K siêu nét.",
-          "image": "img/samsungqled8k.jpg"
+          "image": "./img/samsungqled8k.jpg"
         },
         {
           "id": 8,
           "name": "Loa JBL Charge 5",
           "description": "Loa Bluetooth chống nước với âm thanh mạnh mẽ.",
-          "image": "img/jblcharge5.jpg"
+          "image": "./img/jblcharge5.jpg"
         },
         {
           "id": 9,
           "name": "Máy chơi game PlayStation 5",
           "description": "Máy chơi game thế hệ mới từ Sony.",
-          "image": "img/ps5.jpg"
+          "image": "./img/ps5.jpg"
         },
         {
           "id": 10,
           "name": "Camera an ninh Xiaomi Mi Home",
           "description": "Camera giám sát với độ phân giải Full HD.",
-          "image": "img/xiaomimihomecamera.jpg"
-        },
-        {
-          "id": 11,
-          "name": "Sạc dự phòng Anker PowerCore 20000mAh",
-          "description": "Pin dự phòng dung lượng lớn cho điện thoại và tablet.",
-          "image": "img/ankerpowercore20000.jpg"
-        },
-        {
-          "id": 12,
-          "name": "Router Wi-Fi Asus RT-AX86U",
-          "description": "Router Wi-Fi 6 hiệu suất cao.",
-          "image": "img/asusrtax86u.jpg"
-        },
-        {
-          "id": 13,
-          "name": "Ổ cứng SSD Samsung 980 Pro 1TB",
-          "description": "Ổ cứng SSD NVMe tốc độ cao.",
-          "image": "img/samsung980pro1tb.jpg"
-        },
-        {
-          "id": 14,
-          "name": "Máy in HP LaserJet Pro MFP M428fdw",
-          "description": "Máy in laser đa chức năng dành cho văn phòng.",
-          "image": "img/hplaserjetpromfp428fdw.jpg"
-        },
-        {
-          "id": 15,
-          "name": "Bộ phát Wi-Fi di động TP-Link M7350",
-          "description": "Thiết bị phát Wi-Fi từ SIM 4G.",
-          "image": "img/tplinkm7350.jpg"
+          "image": "./img/xiaomimihomecamera.jpg"
         }
       ]
     },
@@ -102,91 +72,61 @@
           "id": 16,
           "name": "Áo thun nam Uniqlo",
           "description": "Áo thun cotton thoáng mát.",
-          "image": "img/uniqlotshirt.jpg"
+          "image": "./img/uniqlotshirt.jpg"
         },
         {
           "id": 17,
           "name": "Quần jeans Levi's 501",
           "description": "Quần jeans cổ điển từ Levi's.",
-          "image": "img/levis501.jpg"
+          "image": "./img/levis501.jpg"
         },
         {
           "id": 18,
           "name": "Váy midi Zara",
           "description": "Váy nữ thời trang từ Zara.",
-          "image": "img/zaramididress.jpg"
+          "image": "./img/zaramididress.jpg"
         },
         {
           "id": 19,
           "name": "Giày thể thao Nike Air Force 1",
           "description": "Giày sneaker kinh điển từ Nike.",
-          "image": "img/nikeairforce1.jpg"
+          "image": "./img/nikeairforce1.jpg"
         },
         {
           "id": 20,
           "name": "Túi xách Michael Kors",
           "description": "Túi xách thời trang cao cấp.",
-          "image": "img/michaelkorstote.jpg"
+          "image": "./img/michaelkorstote.jpg"
         },
         {
           "id": 21,
           "name": "Áo khoác da H&M",
           "description": "Áo khoác da thời trang.",
-          "image": "img/hmleatherjacket.jpg"
+          "image": "./img/hmleatherjacket.jpg"
         },
         {
           "id": 22,
           "name": "Đồng hồ Casio G-Shock",
           "description": "Đồng hồ chống sốc dành cho giới trẻ.",
-          "image": "img/casiogshock.jpg"
+          "image": "./img/casiogshock.jpg"
         },
         {
           "id": 23,
           "name": "Mũ lưỡi trai Adidas",
           "description": "Mũ thể thao với logo Adidas.",
-          "image": "img/adidascap.jpg"
+          "image": "./img/adidascap.jpg"
         },
         {
           "id": 24,
           "name": "Dây nịt da Calvin Klein",
           "description": "Thắt lưng da thật cao cấp.",
-          "image": "img/calvinkleinbelt.jpg"
+          "image": "./img/calvinkleinbelt.jpg"
         },
         {
           "id": 25,
           "name": "Kính mát Ray-Ban Aviator",
           "description": "Kính mát phong cách cổ điển.",
-          "image": "img/raybanaviator.jpg"
-        },
-        {
-          "id": 26,
-          "name": "Áo sơ mi Tommy Hilfiger",
-          "description": "Áo sơ mi nam chất lượng cao.",
-          "image": "img/tommyhilfigershirt.jpg"
-        },
-        {
-          "id": 27,
-          "name": "Giày cao gót Christian Louboutin",
-          "description": "Giày nữ sang trọng với đế đỏ đặc trưng.",
-          "image": "img/christianlouboutinheels.jpg"
-        },
-        {
-          "id": 28,
-          "name": "Khăn quàng cổ Burberry",
-          "description": "Khăn quàng với họa tiết đặc trưng.",
-          "image": "img/burberryscarf.jpg"
-        },
-        {
-          "id": 29,
-          "name": "Áo hoodie Champion",
-          "description": "Áo hoodie phong cách thể thao.",
-          "image": "img/championhoodie.jpg"
-        },
-        {
-          "id": 30,
-          "name": "Bộ vest nam Hugo Boss",
-          "description": "Bộ vest cao cấp dành cho doanh nhân.",
-          "image": "img/hugobosssuit.jpg"
+          "image": "./img/raybanaviator.jpg"
         }
       ]
     },
@@ -197,91 +137,61 @@
           "id": 31,
           "name": "Máy hút bụi Dyson V11",
           "description": "Máy hút bụi không dây hiệu suất cao.",
-          "image": "img/dysonv11.jpg"
+          "image": "./img/dysonv11.jpg"
         },
         {
           "id": 32,
           "name": "Nồi chiên không dầu Philips Airfryer XXL",
           "description": "Nồi chiên không dầu dung tích lớn.",
-          "image": "img/philipsairfryerxxl.jpg"
+          "image": "./img/philipsairfryerxxl.jpg"
         },
         {
           "id": 33,
           "name": "Bình đun siêu tốc Xiaomi Mi Smart Kettle",
           "description": "Bình đun nước thông minh kết nối Bluetooth.",
-          "image": "img/xiaomismartkettle.jpg"
+          "image": "./img/xiaomismartkettle.jpg"
         },
         {
           "id": 34,
           "name": "Máy xay sinh tố NutriBullet Pro 900",
           "description": "Máy xay sinh tố công suất cao.",
-          "image": "img/nutribulletpro900.jpg"
+          "image": "./img/nutribulletpro900.jpg"
         },
         {
           "id": 35,
           "name": "Lò vi sóng Sharp R-G371VN-W",
           "description": "Lò vi sóng đa chức năng.",
-          "image": "img/sharprg371vnw.jpg"
+          "image": "./img/sharprg371vnw.jpg"
         },
         {
           "id": 36,
           "name": "Tủ lạnh Samsung Inverter 319L",
           "description": "Tủ lạnh tiết kiệm điện với dung tích lớn.",
-          "image": "img/samsungfridge319l.jpg"
+          "image": "./img/samsungfridge319l.jpg"
         },
         {
           "id": 37,
           "name": "Quạt điều hòa Sunhouse SHD7727",
           "description": "Quạt làm mát không khí hiệu quả.",
-          "image": "img/sunhouseshd7727.jpg"
+          "image": "./img/sunhouseshd7727.jpg"
         },
         {
           "id": 38,
           "name": "Bếp từ đôi Kangaroo KG498N",
           "description": "Bếp từ an toàn và tiết kiệm điện.",
-          "image": "img/kangarookg498n.jpg"
+          "image": "./img/kangarookg498n.jpg"
         },
         {
           "id": 39,
           "name": "Máy rửa chén Bosch SMS25CI05E",
           "description": "Máy rửa chén hiện đại và tiết kiệm nước.",
-          "image": "img/boschsms25ci05e.jpg"
+          "image": "./img/boschsms25ci05e.jpg"
         },
         {
           "id": 40,
           "name": "Đèn bàn LED Điện Quang ĐQ LDL05",
           "description": "Đèn bàn tiết kiệm điện với ánh sáng dịu.",
-          "image": "img/dienquangldl05.jpg"
-        },
-        {
-          "id": 41,
-          "name": "Máy pha cà phê DeLonghi EC685",
-          "description": "Máy pha cà phê espresso bán tự động.",
-          "image": "img/delonghiec685.jpg"
-        },
-        {
-          "id": 42,
-          "name": "Máy giặt LG Inverter 9kg",
-          "description": "Máy giặt cửa trước tiết kiệm điện.",
-          "image": "img/lgwashingmachine9kg.jpg"
-        },
-        {
-          "id": 43,
-          "name": "Nồi cơm điện Cuckoo CR-1020F",
-          "description": "Nồi cơm điện cao tần chất lượng cao.",
-          "image": "img/cuckoocr1020f.jpg"
-        },
-        {
-          "id": 44,
-          "name": "Bàn ủi hơi nước Philips GC5039",
-          "description": "Bàn ủi hơi nước công suất mạnh.",
-          "image": "img/philipsgc5039.jpg"
-        },
-        {
-          "id": 45,
-          "name": "Máy lọc không khí Coway AP-1008CH",
-          "description": "Máy lọc không khí hiệu quả cao.",
-          "image": "img/cowayap1008ch.jpg"
+          "image": "./img/dienquangldl05.jpg"
         }
       ]
     },
@@ -292,91 +202,61 @@
           "id": 46,
           "name": "Đắc Nhân Tâm",
           "description": "Cuốn sách kỹ năng sống bán chạy nhất mọi thời đại.",
-          "image": "img/dacnhantam.jpg"
+          "image": "./img/dacnhantam.jpg"
         },
         {
           "id": 47,
           "name": "Bạn Đắt Giá Bao Nhiêu",
           "description": "Sách về giá trị bản thân và phát triển cá nhân.",
-          "image": "img/bandatgiabaonhieu.jpg"
+          "image": "./img/bandatgiabaonhieu.jpg"
         },
         {
           "id": 48,
           "name": "Nhà Giả Kim",
           "description": "Tiểu thuyết kinh điển của Paulo Coelho.",
-          "image": "img/nhagiakim.jpg"
+          "image": "./img/nhagiakim.jpg"
         },
         {
           "id": 49,
           "name": "Tuổi Trẻ Đáng Giá Bao Nhiêu",
           "description": "Cuốn sách truyền cảm hứng cho giới trẻ.",
-          "image": "img/tuoitredanggiabaonhieu.jpg"
+          "image": "./img/tuoitredanggiabaonhieu.jpg"
         },
         {
           "id": 50,
           "name": "Think and Grow Rich",
           "description": "Sách kinh điển về làm giàu của Napoleon Hill.",
-          "image": "img/thinkandgrowrich.jpg"
+          "image": "./img/thinkandgrowrich.jpg"
         },
         {
           "id": 51,
           "name": "Khéo Ăn Nói Sẽ Có Được Thiên Hạ",
           "description": "Sách về nghệ thuật giao tiếp và ứng xử.",
-          "image": "img/kheoannoisecoduocthienha.jpg"
+          "image": "./img/kheoannoisecoduocthienha.jpg"
         },
         {
           "id": 52,
           "name": "Tôi Tự Học",
           "description": "Cuốn sách giúp bạn tự học hiệu quả.",
-          "image": "img/toituhoc.jpg"
+          "image": "./img/toituhoc.jpg"
         },
         {
           "id": 53,
           "name": "Trên Đường Băng",
           "description": "Sách của Tony Buổi Sáng về kinh nghiệm sống.",
-          "image": "img/trenduongbang.jpg"
+          "image": "./img/trenduongbang.jpg"
         },
         {
           "id": 54,
           "name": "Sức Mạnh Của Thói Quen",
           "description": "Khám phá cách hình thành và thay đổi thói quen.",
-          "image": "img/sucmanhcuathoiquen.jpg"
+          "image": "./img/sucmanhcuathoiquen.jpg"
         },
         {
           "id": 55,
           "name": "Harry Potter và Hòn Đá Phù Thủy",
           "description": "Tập đầu tiên trong bộ truyện Harry Potter.",
-          "image": "img/harrypotter1.jpg"
-        },
-        {
-          "id": 56,
-          "name": "Bí Mật Của Phan Thiên Ân",
-          "description": "Sách truyền cảm hứng và triết lý sống.",
-          "image": "img/bimatcuaphanthienan.jpg"
-        },
-        {
-          "id": 57,
-          "name": "Cà Phê Cùng Tony",
-          "description": "Những câu chuyện đời thường đầy ý nghĩa.",
-          "image": "img/caphecungtony.jpg"
-        },
-        {
-          "id": 58,
-          "name": "Sapiens: Lược Sử Loài Người",
-          "description": "Cuốn sách về lịch sử loài người của Yuval Noah Harari.",
-          "image": "img/sapiens.jpg"
-        },
-        {
-          "id": 59,
-          "name": "Giết Con Chim Nhại",
-          "description": "Tiểu thuyết kinh điển về công lý và phân biệt chủng tộc.",
-          "image": "img/gietconchimnhai.jpg"
-        },
-        {
-          "id": 60,
-          "name": "Bố Già",
-          "description": "Tiểu thuyết nổi tiếng về thế giới mafia.",
-          "image": "img/bogia.jpg"
+          "image": "./img/harrypotter1.jpg"
         }
       ]
     },
@@ -387,91 +267,61 @@
           "id": 61,
           "name": "Vợt cầu lông Yonex Astrox 100ZZ",
           "description": "Vợt cầu lông cao cấp dành cho người chơi chuyên nghiệp.",
-          "image": "img/yonexastrox100zz.jpg"
+          "image": "./img/yonexastrox100zz.jpg"
         },
         {
           "id": 62,
           "name": "Bóng đá Adidas Telstar 18",
           "description": "Bóng đá chính thức của FIFA World Cup.",
-          "image": "img/adidastelstar18.jpg"
+          "image": "./img/adidastelstar18.jpg"
         },
         {
           "id": 63,
           "name": "Giày đá bóng Nike Mercurial Vapor 13",
           "description": "Giày đá bóng nhẹ và tốc độ.",
-          "image": "img/nikemercurialvapor13.jpg"
+          "image": "./img/nikemercurialvapor13.jpg"
         },
         {
           "id": 64,
           "name": "Thảm yoga Liforme",
           "description": "Thảm tập yoga chống trơn trượt.",
-          "image": "img/liformeyogamat.jpg"
+          "image": "./img/liformeyogamat.jpg"
         },
         {
           "id": 65,
           "name": "Dụng cụ tập gym đa năng",
           "description": "Bộ dụng cụ tập gym tại nhà.",
-          "image": "img/homedgymset.jpg"
+          "image": "./img/homedgymset.jpg"
         },
         {
           "id": 66,
           "name": "Bàn bóng bàn Double Fish 233",
           "description": "Bàn bóng bàn tiêu chuẩn thi đấu.",
-          "image": "img/doublefish233.jpg"
+          "image": "./img/doublefish233.jpg"
         },
         {
           "id": 67,
           "name": "Máy chạy bộ điện Kingsport BK-2036",
           "description": "Máy chạy bộ tại nhà với nhiều chức năng.",
-          "image": "img/kingsportbk2036.jpg"
+          "image": "./img/kingsportbk2036.jpg"
         },
         {
           "id": 68,
           "name": "Găng tay đấm bốc Everlast Pro Style",
           "description": "Găng tay đấm bốc chất lượng cao.",
-          "image": "img/everlastprostyle.jpg"
+          "image": "./img/everlastprostyle.jpg"
         },
         {
           "id": 69,
           "name": "Dây nhảy thể dục Adidas",
           "description": "Dây nhảy chuyên dụng cho tập luyện.",
-          "image": "img/adidasskippingrope.jpg"
+          "image": "./img/adidasskippingrope.jpg"
         },
         {
           "id": 70,
           "name": "Mũ bảo hiểm xe đạp Giro Aether MIPS",
           "description": "Mũ bảo hiểm an toàn và thoải mái.",
-          "image": "img/giroaethermips.jpg"
-        },
-        {
-          "id": 71,
-          "name": "Kính bơi Speedo Fastskin",
-          "description": "Kính bơi chuyên nghiệp chống sương mù.",
-          "image": "img/speedofastskin.jpg"
-        },
-        {
-          "id": 72,
-          "name": "Ván trượt Penny Board",
-          "description": "Ván trượt nhỏ gọn dành cho giới trẻ.",
-          "image": "img/pennyboard.jpg"
-        },
-        {
-          "id": 73,
-          "name": "Bộ quần áo bóng rổ NBA",
-          "description": "Trang phục thi đấu chất lượng cao.",
-          "image": "img/nbabasketballuniform.jpg"
-        },
-        {
-          "id": 74,
-          "name": "Gậy golf TaylorMade SIM Max",
-          "description": "Gậy driver với công nghệ tiên tiến.",
-          "image": "img/taylormadesimmax.jpg"
-        },
-        {
-          "id": 75,
-          "name": "Bộ dụng cụ bơi lặn trẻ em",
-          "description": "Bao gồm kính, ống thở và chân vịt.",
-          "image": "img/kidsswimset.jpg"
+          "image": "./img/giroaethermips.jpg"
         }
       ]
     }
